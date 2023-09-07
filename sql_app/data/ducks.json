@@ -1,0 +1,8 @@
+[
+    {"id": 1, "name": "Huey Duck", "size": "small", "owner": "empty"}, 
+    {"id": 2, "name": "Dewey Duck", "size": "small", "owner": "empty"}, 
+    {"id": 3, "name": "Louie Duck", "size": "small", "owner": "empty"}, 
+    {"id": 4, "name": "Donald Duck", "size": "medium", "owner": "empty"}, 
+    {"id": 5, "name": "Daisy Duck", "size": "medium", "owner": "empty"},
+    {"id": 6, "name": "Scrooge McDuck", "size": "large", "owner": "empty"}
+]

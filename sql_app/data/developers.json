@@ -1,0 +1,8 @@
+[
+    {"id": 1, "name": "Tom", "duck1": "empty", "duck2": "empty"}, 
+    {"id": 2, "name": "Eric", "duck1": "empty", "duck2": "empty"}, 
+    {"id": 3, "name": "Alice", "duck1": "empty", "duck2": "empty"}, 
+    {"id": 4, "name": "Charlot", "duck1": "empty", "duck2": "empty"}, 
+    {"id": 5, "name": "Bob", "duck1": "empty", "duck2": "empty"},
+    {"id": 6, "name": "Thomas", "duck1": "empty", "duck2": "empty"}
+]
